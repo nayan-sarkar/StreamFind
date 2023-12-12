@@ -15,6 +15,6 @@ https://streamfind.netlify.app
 - Full Responsive, compatible with Mobile, Tablet and Desktop screen devices
 - Page Routing with Route Protection done with React Router 6
 - Deployed on Netlify with Firebase Authentication and Cloud Firestore Realtime NoSQL database
-- Uses local storage to cache results, leading to faster load times and fewer API queries
+- Utilizes local storage to cache results, leading to faster load times and fewer API queries
 - Powered with Netlify's serverless functions to query endpoints
 - State Management across the entire app done with Context API
