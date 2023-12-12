@@ -21,7 +21,7 @@ Demo - https://www.youtube.com/watch?v=bsYgQWqtaz4
 - Powered with Netlify's serverless functions to query endpoints
 - State Management across the entire app done with Context API
 
-# Screenshots
+## Screenshots
 ![Desktop Screenshot](./screenshots/image-2.png)
 ![Desktop Screenshot](./screenshots/image-3.png)
 ![Desktop Screenshot](./screenshots/image-4.png)
