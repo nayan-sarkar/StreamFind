@@ -46,7 +46,6 @@ export default function MoviePage(){
     return (
         movieData && credit && videos ?
         <div className="single-movie-page dot flex">
-          {console.log(state.user)}
         <div className="movie-page-container container flex dot" style={{backgroundImage: `linear-gradient(180deg, transparent, rgba(37, 37, 37, .75), #111), url(https://image.tmdb.org/t/p/original/${movieData.backdrop_path})`}}>
               <div className="poster-container flex">
                    <LazyLoadImage

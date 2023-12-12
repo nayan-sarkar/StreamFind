@@ -36,7 +36,7 @@ export function useCreateUpdateDelete(collectionName){
 
     React.useEffect(()=>{
         return ()=>{
-            console.log("No previous CUD dispatch pending")
+            // console.log("No previous CUD dispatch pending")
             setIsCancelled(true);
         }
     },[])
@@ -95,7 +95,7 @@ export function useCreateUpdateDelete(collectionName){
     // users and uid
     const getUserData = async (collectionName, uid) =>{
 
-            const userDataCollection = doc(db, collectionName, uid)
+            const userDataCollection = doc(db, collectionName, uid);
 
             const docSnap = await getDoc(userDataCollection);
 

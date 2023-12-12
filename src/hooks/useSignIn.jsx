@@ -17,8 +17,8 @@ export function useSignIn(){
 
         try{
             const result = await signInWithPopup(auth, provider);
-            console.log("this is output ",result);
             dispatch({type: 'LOGIN', payload: result.user});
+            console.log("User Signed in");
 
             setIsPending(false);
             setError(null);

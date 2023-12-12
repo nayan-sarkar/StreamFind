@@ -24,13 +24,13 @@ export default function SearchResults(){
             setWatchList(result['WatchList'])
         }
             test()
-            return ()=> console.log("effect stopped")
+                
+                // return ()=> console.log("effect stopped")
     },[])
     
     return (
         <>
         {watchList ?  <div className="container search-results flex">
-            {console.log("WatchList",watchList)}
             {watchList.length===0 && <p style={{width: "100%", textAlign: "center", minHeight: "50vh", marginTop: "10em"}}>No Movies in Watch List</p>}
             <div className="search__posters flex">
                 {
