@@ -4,6 +4,7 @@
 A single page web app which allows users to find which movies are currently being streamed on different providers with the ability to bookmark them.
 
 <b>Live Site:</b> https://streamfind.netlify.app
+
 <b>Demo:</b> https://www.youtube.com/watch?v=bsYgQWqtaz4
 
 ## Built With
