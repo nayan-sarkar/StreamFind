@@ -11,7 +11,7 @@ https://streamfind.netlify.app
 
 ## Features
 - Built with React 18 on the Frontend and Firestore Realtime Database on the Backend
-- Integrated with the TMDB API and JustWatch data sources
+- Integrated with the TMDB API and Just Watch data sources
 - Full Responsive, compatible with Mobile, Tablet and Desktop screen devices
 - Page Routing with Route Protection done with React Router 6
 - Deployed on Netlify with Firebase Authentication and Cloud Firestore Realtime NoSQL database
