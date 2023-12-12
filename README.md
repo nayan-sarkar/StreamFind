@@ -14,7 +14,7 @@ Demo - https://www.youtube.com/watch?v=bsYgQWqtaz4
 - Built with React 18 using Functional Components on the Frontend and Firestore Realtime Database on the Backend
 - Integrated with the TMDB API and Just Watch data sources
 - Authentication and Storage Operations handled with React Custom Hooks
-- Full Responsive, compatible with Mobile, Tablet and Desktop screen devices
+- Full Responsive, compatible with Mobile, Tablet and Desktop screen sizes
 - Page Routing with Route Protection done with React Router 6
 - Deployed on Netlify with Firebase Authentication and Cloud Firestore Realtime NoSQL database
 - Utilizes local storage to cache results, leading to faster load times and fewer API queries
