@@ -1,4 +1,4 @@
-![Screenshot](./Screenshot.jpg)
+![Screenshot](./screenshots/image-1.jpg)
 
 # Streamfind
 A single page web app which allows users to find which movies are currently being streamed on different providers with the ability to bookmark them.
@@ -12,7 +12,7 @@ https://streamfind.netlify.app
 ## Features
 - Built with React 18 using Functional Components on the Frontend and Firestore Realtime Database on the Backend
 - Integrated with the TMDB API and Just Watch data sources
-- Conditional Rendering of Logic
+- Authentication and Storage Operations handled with React Custom Hooks
 - Full Responsive, compatible with Mobile, Tablet and Desktop screen devices
 - Page Routing with Route Protection done with React Router 6
 - Deployed on Netlify with Firebase Authentication and Cloud Firestore Realtime NoSQL database
