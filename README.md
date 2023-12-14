@@ -1,7 +1,7 @@
 ![Screenshot](./screenshots/image-1.jpg)
 
 # Streamfind | Movie Search and Bookmark Site
-A single page web app which allows users to find movies currently available for different providers with the ability to bookmark them.
+A single page web app which allows users to find movies available for streaming on different platforms along with the ability to bookmark them.
 
 <b>Live Site:</b> https://streamfind.netlify.app
 
