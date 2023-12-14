@@ -1,6 +1,6 @@
 ![Screenshot](./screenshots/image-1.jpg)
 
-# Streamfind | Movie Bookmark Site
+# Streamfind | Movie Search and Bookmark Site
 A single page web app which allows users to find which movies are currently being streamed on different providers with the ability to bookmark them.
 
 <b>Live Site:</b> https://streamfind.netlify.app
