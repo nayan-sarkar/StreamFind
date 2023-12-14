@@ -1,7 +1,7 @@
 ![Screenshot](./screenshots/image-1.jpg)
 
 # Streamfind | Movie Search and Bookmark Site
-A single page web app which allows users to find movies available for streaming on different platforms along with the ability to bookmark them.
+A single page web app which allows users to find and bookmark movies available for streaming on different platforms
 
 <b>Live Site:</b> https://streamfind.netlify.app
 
@@ -12,14 +12,13 @@ A single page web app which allows users to find movies available for streaming 
 
 ## Features
 - Built with React 18 using Functional Components on the Frontend and Firestore Realtime Database on the Backend
-- Integrated with the TMDB API and Just Watch data sources
 - Authentication and Storage Operations handled with Custom React Hooks
 - Full Responsive, compatible with Mobile, Tablet and Desktop screen sizes
 - Page Routing with Route Protection done with React Router 6
 - Deployed on Netlify with Firebase Authentication and Cloud Firestore Realtime NoSQL database
 - Utilizes local storage to cache results, leading to faster load times and fewer API queries
 - Powered with Netlify's serverless functions to query endpoints
-- State Management across the entire app done with Context API
+- State Management across the entire app done through Context API with useReducer Hook
 
 ## Screenshots
 ![Desktop Screenshot](./screenshots/image-2.png)
