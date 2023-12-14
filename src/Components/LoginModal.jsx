@@ -1,4 +1,4 @@
-import GoogleSignIn from './../assets/GoogleSignIn.svg';
+import GoogleSignIn from './../assets/web_light_rd_SI@1x.png';
 import React from 'react';
 import {useSignUp} from './../hooks/useSignUp';
 import {useSignIn} from './../hooks/useSignIn';
@@ -17,7 +17,7 @@ export default function LoginModal(){
     // const {createList} = useCreateUpdateDelete();
 
     const boxStyle = {
-        backgroundColor: "#3a7d56",
+        backgroundColor: "#065F46",
         borderRadius: "2px"
     }
 
