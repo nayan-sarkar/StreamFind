@@ -8,7 +8,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  // Add Firebase Config Here
+  apiKey: "AIzaSyAEWR7885piWlYNvPCkHvrcrhMgJV2Fzos",
+  authDomain: "streamfind-9b86a.firebaseapp.com",
+  projectId: "streamfind-9b86a",
+  storageBucket: "streamfind-9b86a.appspot.com",
+  messagingSenderId: "972937595026",
+  appId: "1:972937595026:web:805cb3254ee47abee3fe4b"
 };
 
 // Initialize Firebase
