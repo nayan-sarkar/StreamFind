@@ -5,7 +5,6 @@ A single page web app which allows users to find and bookmark movies available f
 
 <b>Live Site:</b> https://streamfind.netlify.app
 
-
 <b>Demo:</b> https://www.youtube.com/watch?v=bsYgQWqtaz4
 
 ## Built With
