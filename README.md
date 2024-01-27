@@ -20,6 +20,22 @@ A single page web app which allows users to find and bookmark movies available f
 - Powered with Netlify's serverless functions to query endpoints
 - State Management across the entire app done through Context API with useReducer Hook
 
+## Steps to Run Project Locally
+
+- Install netlify cli in terminal `npm install netlify-cli -g`
+
+- Sign Up for TMDB API Key `https://developer.themoviedb.org/`
+
+- Create `.env` in project root directory 
+
+- Add the line `VITE_SECRET_AUTHORIZATION = ""`
+
+- Replace `""` in `env` file with value of `SECRET` in `Authorization: Bearer ${SECRET}` which is the Access Token Auth from TMDB API.  Refer serverless function in netlify/functions folder in project directory and Access Token Auth from `https://developer.themoviedb.org/reference/intro/getting-started`
+
+- In terminal enter `npm install`
+
+- In terminal enter `netlify dev`
+
 ## Screenshots
 ![Desktop Screenshot](./screenshots/image-2.png)
 ![Desktop Screenshot](./screenshots/image-3.png)
